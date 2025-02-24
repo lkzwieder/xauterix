@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.eot");
+    src: url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"),
+        url("../fonts/flaticon.woff2") format("woff2"),
+        url("../fonts/flaticon.woff") format("woff"),
+        url("../fonts/flaticon.ttf") format("truetype"),
+        url("../fonts/flaticon.svg#Flaticon") format("svg");
+}
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-award:before {
+    content: "\f101";
+}
+.flaticon-lighting:before {
+    content: "\f102";
+}
+.flaticon-pumpjack:before {
+    content: "\f103";
+}
+.flaticon-bioengineering:before {
+    content: "\f104";
+}
+.flaticon-pistons:before {
+    content: "\f105";
+}
+.flaticon-engineer:before {
+    content: "\f106";
+}
+.flaticon-save-time:before {
+    content: "\f107";
+}
+.flaticon-case-study:before {
+    content: "\f108";
+}
+.flaticon-placeholder:before {
+    content: "\f109";
+}
+.flaticon-power-button:before {
+    content: "\f10a";
+}
+.flaticon-phone:before {
+    content: "\f10b";
+}
+.flaticon-certificate:before {
+    content: "\f10c";
+}
+.flaticon-research:before {
+    content: "\f10d";
+}
+.flaticon-work-time:before {
+    content: "\f10e";
+}
+.flaticon-electrical-panel:before {
+    content: "\f10f";
+}
+.flaticon-costumer:before {
+    content: "\f110";
+}
+.flaticon-order:before {
+    content: "\f111";
+}
